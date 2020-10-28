@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/udemy-react-newsapp/static/css/main.bfada26c.chunk.css",
+    "main.js": "/udemy-react-newsapp/static/js/main.35b898d2.chunk.js",
+    "main.js.map": "/udemy-react-newsapp/static/js/main.35b898d2.chunk.js.map",
+    "runtime-main.js": "/udemy-react-newsapp/static/js/runtime-main.e7f3359e.js",
+    "runtime-main.js.map": "/udemy-react-newsapp/static/js/runtime-main.e7f3359e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/udemy-react-newsapp/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3f852ef3.chunk.js": "/udemy-react-newsapp/static/js/2.3f852ef3.chunk.js",
+    "static/js/2.3f852ef3.chunk.js.map": "/udemy-react-newsapp/static/js/2.3f852ef3.chunk.js.map",
+    "index.html": "/udemy-react-newsapp/index.html",
+    "precache-manifest.fc0dfcea7dd07d2fe014abb6ef979753.js": "/udemy-react-newsapp/precache-manifest.fc0dfcea7dd07d2fe014abb6ef979753.js",
+    "service-worker.js": "/udemy-react-newsapp/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/udemy-react-newsapp/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.bfada26c.chunk.css.map": "/udemy-react-newsapp/static/css/main.bfada26c.chunk.css.map",
+    "static/js/2.3f852ef3.chunk.js.LICENSE.txt": "/udemy-react-newsapp/static/js/2.3f852ef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f3359e.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3f852ef3.chunk.js",
+    "static/css/main.bfada26c.chunk.css",
+    "static/js/main.35b898d2.chunk.js"
+  ]
+}
